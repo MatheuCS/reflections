@@ -1,0 +1,8 @@
+Como ter fácil acesso a todo o histórico de um arquivo pode torná-lo um programador mais eficiente no longo prazo?
+
+Na sua opinião, quais são os prós e contras de escolher manualmente quando criar um commit, como ocorre no Git, v. o salvamento automático de versões, como no Google Docs?
+
+Como usar os comandos git log e git diff para visualizar o histórico dos arquivos?
+
+- git log: ver os ultimos commits
+- git diff: diferença entre dois commits, recebe os ids como parâmetros. 
